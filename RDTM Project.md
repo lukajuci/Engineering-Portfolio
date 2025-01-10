@@ -1,2 +1,1 @@
-This was my capstone project for my Master's of Engineering. The goal of this project was to create a rapidly deployable tactical mesonet (RDTM) which is essentially a sensor network that can be deployed during a wildfire to provide
-localized data that can help alert firefighters when there are wind changes and how they should react to the fire.
+This was my capstone project for my Master's of Engineering. The goal of this project was to create a rapidly deployable tactical mesonet (RDTM) which is essentially a sensor network that can be deployed during a wildfire to provide localized data that can help alert firefighters when there are wind changes and how they should react to the fire.
