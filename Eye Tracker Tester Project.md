@@ -1,5 +1,5 @@
 # Eye Tracker Testing Device
-![gantry](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/gantry.png)
+![gantry](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/eye%20tracker%20tester/gantry.png)
 
 ## About
 The purpose of this project was to creat a robot with eyes that can be used to test the efficacy of different eye tracker devices. The inspiration behind this project was to find the best eye trackers that can be used for ALS patients. This was my bachelor's capstone project in partnership with Microsoft, and my team was the 5th group to work on the project. My contribution to the project includes programming and tuning the servos that articulate the eyes, designing a laser mount to fit over the eyes, and coming up with a novel laser calibration procedure so that we could ensure the lasers were concentric with the gaze of the robots eyes.
@@ -17,8 +17,8 @@ Note: This assumes that the eye enclosure is constructed so that all components 
 
 Obviously this isn't perfect, but I came up with the process by drawing upon my previous experience in the machine shop and I was proud of that. We still managed to achieve movement accuracy of 0.1 degrees, or about +/-1.1 mm which wouldn't have been repeatable enough for validation if our lasers weren't pretty concentric with the eye gaze.
 
-![chucked up](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/calibration1.jpg)
-![graph paper](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/calibration2.jpg)
+![chucked up](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/eye%20tracker%20tester/calibration1.jpg)
+![graph paper](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/eye%20tracker%20tester/calibration2.jpg)
 
 ## Coding and Tuning
 Since we were the 5th team to work on this project a low of the code for calibrating and moving the robot was already written which was awesome, except for the fact that it didn't work. Between libraries getting updated, components being replaced, and some questionable code the robot was completely non function when we got it. The basic structure of the code was a state machine where a user could chose to calibrate the robot, tell it to look somewhere, settings, and the main menu. The robot is able to move its "shoulders" on the x, y, and z axis while the "eyes" had pitch and yaw freedom of momvent.
@@ -28,4 +28,4 @@ After fixing all the broken library instances I created new transformation matri
 ## Laser Mount
 We bought new lasers that could be focused to a certain distance to ensure that the visible dot on the screen was as small as possible. These new lasers came in an enclosure that was a different size than the previous lasers so the mount had to be redesigned to fit them. The new mounts can be seen as the red a blue 3d printed part below. In addition to fitting the new laser, two set screw holes were added 90 degrees apart from eachother so that the laser itself could be centered. 
 
-![laser eyes](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/eyes%20with%20lasers.jpg)
+![laser eyes](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/eye%20tracker%20tester/eyes%20with%20lasers.jpg)
