@@ -1,5 +1,6 @@
 # Engineering-Portfolio
 Luka Johnson engineering portfolio including code, design, and construction of school and personal projects
 
+To navigate this portfolio click on one of the .md files in the main folder. A description of the project along with any relevant images and code will be linked within the project's writeup file.
+
 THIS IS A WORK IN PROGRESS
-I want to be able to cleanly and conscicely describe the projects and contributions but it takes time between currently working, moving, looking for a new job, and spending time with my family
