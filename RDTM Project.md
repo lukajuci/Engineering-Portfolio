@@ -2,4 +2,4 @@ This was my capstone project for my Master's of Engineering. The goal of this pr
 My team and I worked on this project for 6 months and took it from a loose concept through two prototypes and finished at a point where the nodes were ready for small scale testing. The first prototype used a raspberry pi and had limited sensors and no network capability so I'll just be talking about the second prototype here.
 ![PROTOTYPE IMAGE](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/RDTM/in_use.png)
 ![components](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/RDTM/rdtm_breakdown.png)
-![board breakdown](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/RDTM/RAK%20board%20(1).jpg)
+![board breakdown](https://github.com/lukajuci/Engineering-Portfolio/blob/main/images/RDTM/RAK%20board.jpg)
